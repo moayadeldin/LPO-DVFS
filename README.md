@@ -2,8 +2,7 @@
 
 Moayadeldin Hussain, Man Lin
 
-
-<img width="2008" height="978" alt="solution_architecture-1-1" src="https://github.com/user-attachments/assets/7bd005fd-a5c8-46ec-ba47-f3eed1c7991a" />
+<img width="2008" height="978" alt="solution_architecture-1-1" src="https://github.com/user-attachments/assets/a644bd12-a844-4d0e-8e9f-ccb09101a409" />
 
 ## Requirements
 ### Jetson Nano 4GB
@@ -37,4 +36,5 @@ If you find our work helpful, please cite as follows:
 ## Acknowledgment
 
 This repository contains modified code from [zTT](https://github.com/ztt-21/zTT).
+
 
