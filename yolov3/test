@@ -1,0 +1,1 @@
+python3 /home/moayad/Downloads/Jetson_Nano_original/yolov3/python/darknet.py --video /home/moayad/Downloads/Jetson_Nano_original/traffic.mp4 --weights /home/moayad/Downloads/Jetson_Nano_original/yolov3/cfg/yolov4-tiny.weights --config /home/moayad/Downloads/Jetson_Nano_original/yolov3/cfg/tiny-yolo.cfg --data cfg/coco.data
